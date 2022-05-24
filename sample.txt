@@ -1,3 +1,9 @@
 working with git adv commands
 new changes made in this file
 modified
+for the CI new changes we made in this file
+CICD servers
+Buildbot
+TeamCity
+Bamboo
+IBMbuildnot
