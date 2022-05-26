@@ -7,3 +7,6 @@ Buildbot
 TeamCity
 Bamboo
 IBMbuildnot
+jenkins webhook job configuration
+whenever developer made changes in code, jenkins triggered and fetch the 
+latest code into jenkins server and build the package
